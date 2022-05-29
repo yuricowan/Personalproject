@@ -1,0 +1,23 @@
+{
+  "name": "personalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuricowan/Personalproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuricowan/Personalproject/issues"
+  },
+  "homepage": "https://github.com/yuricowan/Personalproject#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
