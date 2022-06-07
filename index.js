@@ -1,5 +1,7 @@
-add = (num1, num2) => num1 + num2
+const server = require('./server')
 
-module.exports = {
-  add
-}
+const PORT = 3000
+
+server.listen(PORT, function () {
+  console.log('Server listening on port', PORT)
+})
